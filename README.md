@@ -1,2 +1,2 @@
 # Softuni-C-Exercises
-A repo for exercises from the C# courses in Softuni.
+A repository for exercises from the C# courses in Softuni.
